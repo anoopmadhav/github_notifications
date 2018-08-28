@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  git_username: 
+  slack_username: 
+
+two:
+  git_username: 
+  slack_username: 
